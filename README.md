@@ -108,3 +108,7 @@ Group 02 - DSA Project
 ## License
 
 This project is part of an academic assignment.
+
+## Resources
+
+Project Documentation: https://drive.google.com/file/d/1iKhbzCpDIv8XofRJ9KvpGxp69455apjw/view?usp=sharing
