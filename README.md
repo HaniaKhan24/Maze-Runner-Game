@@ -101,10 +101,6 @@ The maze is generated using a depth-first search algorithm with backtracking:
 5. Recursively process the neighbor
 6. Backtrack when no unvisited neighbors are available
 
-## Team
-
-Group 02 - DSA Project
-
 ## License
 
 This project is part of an academic assignment.
